@@ -1,0 +1,25 @@
+{
+  "name": "mogen",
+  "version": "0.0.1",
+  "description": "Super simple nodejs starter module generator",
+  "preferGlobal": true,
+  "main": "./lib/index.js",
+  "bin": {
+    "mogen": "./bin/mogen"
+  },
+  "dependencies": {
+    "colors": "~0.6.0",
+    "async": "~0.2.6",
+    "optimist": "~0.4.0",
+    "srunner": "~0.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gabesoft/mogen.git"
+  },
+  "author": {
+    "name": "Gabriel Adomnicai",
+    "email": "gabesoft@gmail.com"
+  },
+  "license": "MIT"
+}

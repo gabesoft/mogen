@@ -1,0 +1,21 @@
+{
+    "name": "{{name}}",
+    "version": "0.0.1",
+    "description": "{{desc}}",
+    "preferGlobal": true,
+    "main": "./lib/index.js",
+    "bin": {
+        "{{name}}": "./bin/{{name}}"
+    },
+    "dependencies": { },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:{{git-user}}/{{name}}.git"
+    },
+    "author": {
+        "name": "{{author}}",
+        "email": "{{author-email}}"
+    },
+    "license": "MIT"
+}
+
