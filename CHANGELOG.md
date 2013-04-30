@@ -1,3 +1,7 @@
+0.0.6
+-----
+Package generation fix
+
 0.0.5
 -----
 Added dev dependencies for test and coffee-script
