@@ -1,0 +1,27 @@
+default: test
+
+MOCHA   = node_modules/.bin/mocha -u tdd --check-leaks --timeout 2000
+VERSION = $(shell node -pe 'require("./package.json").version')
+
+all: test
+
+.PHONY: release test loc clean
+
+tag:
+	git tag -a "v$(VERSION)" -m "Version $(VERSION)"
+
+tag-push: tag
+	git push --tags origin HEAD:master
+
+test: build
+	$(MOCHA) -R spec test/*.js
+
+loc:
+	find src/ -name *.js | xargs wc -l
+
+setup:
+	npm install . -d
+
+clean-dep:
+	rm -rf node_modules
+

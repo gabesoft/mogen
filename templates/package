@@ -8,6 +8,7 @@
         "{{name}}": "./bin/{{name}}"
     },
     "dependencies": { },
+    "devDependencies": { },
     "repository": {
         "type": "git",
         "url": "git@github.com:{{git-user}}/{{name}}.git"
@@ -15,7 +16,6 @@
     "author": {
         "name": "{{author}}",
         "email": "{{author-email}}"
-    },
-    "license": "MIT"
+    }
 }
 
