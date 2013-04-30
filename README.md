@@ -5,7 +5,7 @@ _/ / / (__(_/_(_/__(/__/ / (_
              (/              
 ```
 
-# MO(dule) starter GEN(erator)
+# MOdule starter GENerator
 
 *Generate starting files and directories for a node module*
 
