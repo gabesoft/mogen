@@ -1,3 +1,7 @@
+0.0.5
+-----
+Added dev dependencies for test and coffee-script
+
 0.0.4
 -----
 Usage fixes
