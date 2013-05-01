@@ -1,3 +1,7 @@
+0.0.8
+-----
+Usage updates
+
 0.0.7
 -----
 Use template for index
