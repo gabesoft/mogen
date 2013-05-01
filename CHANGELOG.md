@@ -1,3 +1,7 @@
+0.0.7
+-----
+Use template for index
+
 0.0.6
 -----
 Package generation fix
