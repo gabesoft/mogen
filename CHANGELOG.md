@@ -1,3 +1,7 @@
+0.0.11
+-----
+Hide makefile command output
+
 0.0.10
 -----
 Differentiate between slow and fast tests in the makefile
