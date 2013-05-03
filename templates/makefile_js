@@ -14,7 +14,7 @@ tag-push: tag
 	git push --tags origin HEAD:master
 
 test: build
-	$(MOCHA) -R spec test/*.js
+	NODE_ENV=test $(MOCHA) -R spec test/*.js
 
 loc:
 	find src/ -name *.js | xargs wc -l
