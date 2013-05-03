@@ -1,3 +1,7 @@
+0.0.10
+-----
+Differentiate between slow and fast tests in the makefile
+
 0.0.9
 -----
 Set NODE_ENV when running tests from makefile
