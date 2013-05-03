@@ -1,6 +1,6 @@
 {
   "name": "mogen",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Super simple nodejs starter module generator",
   "preferGlobal": true,
   "main": "./lib/index.js",

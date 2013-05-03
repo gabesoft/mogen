@@ -1,3 +1,7 @@
+0.0.9
+-----
+Set NODE_ENV when running tests from makefile
+
 0.0.8
 -----
 Usage updates
