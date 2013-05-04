@@ -1,3 +1,7 @@
+0.0.12
+-----
+Readme fixes
+
 0.0.11
 -----
 Hide makefile command output
