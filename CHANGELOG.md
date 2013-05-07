@@ -1,3 +1,7 @@
+0.0.13
+-----
+Usage fixes
+
 0.0.12
 -----
 Readme fixes
