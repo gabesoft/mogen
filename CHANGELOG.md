@@ -1,3 +1,7 @@
+0.0.14
+-----
+Coffee-script dependency update
+
 0.0.13
 -----
 Usage fixes
