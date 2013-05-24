@@ -1,3 +1,27 @@
+0.0.14
+-----
+Coffee-script dependency update
+
+0.0.13
+-----
+Usage fixes
+
+0.0.12
+-----
+Readme fixes
+
+0.0.11
+-----
+Hide makefile command output
+
+0.0.10
+-----
+Differentiate between slow and fast tests in the makefile
+
+0.0.9
+-----
+Set NODE_ENV when running tests from makefile
+
 0.0.8
 -----
 Usage updates

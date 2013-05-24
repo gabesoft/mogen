@@ -9,7 +9,10 @@ _/ / / (__(_/_(_/__(/__/ / (_
 
 *Generate starting files and directories for a node module*
 
-![screenshot](assets/screen_shot.png)
+![usage](assets/usage.png)
+
+###Example output###
+![output](assets/output.png)
 
 ```
 $ npm install mogen -g
