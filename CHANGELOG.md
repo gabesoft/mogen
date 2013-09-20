@@ -1,3 +1,7 @@
+0.0.15
+-----
+Generate the correct makefile
+
 0.0.14
 -----
 Coffee-script dependency update
