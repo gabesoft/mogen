@@ -1,3 +1,7 @@
+0.0.16
+-----
+Added Makefile target to display all targets
+
 0.0.15
 -----
 Generate the correct makefile
