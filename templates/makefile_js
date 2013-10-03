@@ -17,13 +17,13 @@ tag:
 tag-push: tag
 	@git push --tags origin HEAD:master
 
-test: build
+test:
 	@NODE_ENV=test $(MOCHA) -R spec test/*.js --grep @slow --invert
 
-test-slow: build
+test-slow:
 	@NODE_ENV=test $(MOCHA) -R spec test/*.js --grep @slow --timeout 10000
 
-test-all: build
+test-all:
 	@NODE_ENV=test $(MOCHA) -R spec test/*.js --timeout 10000
 
 loc:
