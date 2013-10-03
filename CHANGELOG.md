@@ -1,6 +1,6 @@
 0.0.18
 -----
-Javalscript makefile cleanup
+Javascript makefile cleanup
 
 0.0.17
 -----
