@@ -1,3 +1,7 @@
+0.0.17
+-----
+Javascript makefile fixes
+
 0.0.16
 -----
 Added Makefile target to display all targets
