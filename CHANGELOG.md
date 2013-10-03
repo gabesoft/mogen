@@ -1,3 +1,7 @@
+0.0.19
+-----
+Changelog typo fix
+
 0.0.18
 -----
 Javascript makefile cleanup
