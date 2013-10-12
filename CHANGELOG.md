@@ -1,3 +1,7 @@
+0.0.20
+-----
+Added a jshint target to the javascript makefile
+
 0.0.19
 -----
 Changelog typo fix
